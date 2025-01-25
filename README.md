@@ -1,1 +1,1 @@
-This is a project that I built in order to improve my HTML, CSS, and JavaScript skills.
+This is a small project that I built in order to improve my HTML, CSS, and JavaScript skills.
