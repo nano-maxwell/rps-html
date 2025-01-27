@@ -40,7 +40,7 @@
 }
 
 body {
-    background-color:  #7155eb;
+    background-color:  #73a7f6;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -49,7 +49,7 @@ body {
 
 
 #gamename {
-    font-size: x-large;
+    font-size: xx-large;
     font-family: "Poppins";
     display: flex;
     text-align: center;
@@ -64,22 +64,19 @@ body {
 }
 
 .rpsbutton {
-    height: 70px;
-    background-color: white;
-    border: 10px solid;
-    border-color: white;
-    margin: 5px;
-    border-radius: 15px;
+    height: 100px;
+    margin: 10px;
     transition: transform 0.2s ease;
 }
 
 #score {
-    font-size: small;
+    font-size: medium;
     font-family: "Poppins";
     display: flex;
     text-align: center;
     justify-content: center;
     font-weight: 500;
     color: white;
-    margin: 10px;
+    margin-top: 0.8rem;
+    margin-bottom: 1rem;
 }
